@@ -1,0 +1,16 @@
+export enum QueryKey {
+    login = 'login',
+    systemAccount = 'system-account',
+    systemAccountImage = 'system-account/image',
+    company = 'company',
+    companyFilter = 'companyFilter',
+    contract = 'contract',
+    contractImage = 'contract/image',
+    companyAccount = 'companyAccount',
+    contractFilter = 'contractFilter',
+    franchise = 'franchise',
+    franchiseFilter = 'franchiseFilter',
+    store = 'store',
+    me = 'me',
+    meImage = 'me-image',
+}
